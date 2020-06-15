@@ -5,12 +5,15 @@ Car or Vehicle Tracking project for fun using Arduino
 make sure the following are installed
 * Arduino
 * TinyGPS Library from arduino
+* GSM Library from arduino
+
 
 # Hardware pre-requesits
 The following components have been used in this project, as project grows, will add more code and more components, Images will be added later
 * Arduino UNO
 * SKG13BL GPS Module (NEO-6M-0-001)
 * Wirings
+* Arduino GSM Shield + SIM card
 
 
 # Contribution
